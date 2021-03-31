@@ -22,18 +22,18 @@ You have been provided with a leads dataset from the past with around 9000 data 
 
 **Approach**
 1)	Data Wrangling
- - a)	Cleaning & Preparation
- - b)	Creation of Dummy Variables
- - c)	Test – Train Split
- - d)	Scaling
- - e)	Looking at Correlations
+ - _Cleaning & Preparation_
+ - _Creation of Dummy Variables_
+ - _Test – Train Split_
+ - _Scaling_
+ - _Looking at Correlations_
 2)	Model Building
- - a)	Logistic Regression
- - b)	Recursive feature Elimination (RFE)
- - c)	Variance Inflation Factor
+ - _Logistic Regression_
+ - _Recursive feature Elimination (RFE)_
+ - _Variance Inflation Factor_
 3)	Model Evaluation
- - a)	Finding the Optimal Cutoff
- - b)	ROC Curve
+ - _Finding the Optimal Cutoff_
+ - _ROC Curve_
 4)	Making Predictions on Test Set
 
 **Tasks addressed**
